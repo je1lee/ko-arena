@@ -1,2 +1,2 @@
 # ko-arena
-ko-arena
+ko-llm-arena
